@@ -1,0 +1,15 @@
+/Users/peter/Projects/Uppgift2/Uppgift2/bin/Debug/net7.0/Uppgift2
+/Users/peter/Projects/Uppgift2/Uppgift2/bin/Debug/net7.0/Uppgift2.deps.json
+/Users/peter/Projects/Uppgift2/Uppgift2/bin/Debug/net7.0/Uppgift2.runtimeconfig.json
+/Users/peter/Projects/Uppgift2/Uppgift2/bin/Debug/net7.0/Uppgift2.dll
+/Users/peter/Projects/Uppgift2/Uppgift2/bin/Debug/net7.0/Uppgift2.pdb
+/Users/peter/Projects/Uppgift2/Uppgift2/obj/Debug/net7.0/Uppgift2.csproj.AssemblyReference.cache
+/Users/peter/Projects/Uppgift2/Uppgift2/obj/Debug/net7.0/Uppgift2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peter/Projects/Uppgift2/Uppgift2/obj/Debug/net7.0/Uppgift2.AssemblyInfoInputs.cache
+/Users/peter/Projects/Uppgift2/Uppgift2/obj/Debug/net7.0/Uppgift2.AssemblyInfo.cs
+/Users/peter/Projects/Uppgift2/Uppgift2/obj/Debug/net7.0/Uppgift2.csproj.CoreCompileInputs.cache
+/Users/peter/Projects/Uppgift2/Uppgift2/obj/Debug/net7.0/Uppgift2.dll
+/Users/peter/Projects/Uppgift2/Uppgift2/obj/Debug/net7.0/refint/Uppgift2.dll
+/Users/peter/Projects/Uppgift2/Uppgift2/obj/Debug/net7.0/Uppgift2.pdb
+/Users/peter/Projects/Uppgift2/Uppgift2/obj/Debug/net7.0/Uppgift2.genruntimeconfig.cache
+/Users/peter/Projects/Uppgift2/Uppgift2/obj/Debug/net7.0/ref/Uppgift2.dll
